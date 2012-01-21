@@ -1,0 +1,8 @@
+--> 1st program approach
+(Here I have used C language for programming)
+
+->  For solving this situation I have used stack using linked list.
+->  For conviniency in Main, I have used concept of switch case for implementing push and pop operations.
+->  Here, It is need of sequential insertion, that's why I have used if...else conditional statements.
+->  For another operation of inserting the popped values, I have used another linked list.
+->  I have shown output sequentially as needed in the problem statement.

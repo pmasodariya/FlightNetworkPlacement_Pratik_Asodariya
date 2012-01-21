@@ -1,0 +1,7 @@
+--> 2nd program approach
+(Here I have used C language for programming)
+
+->  Here, there is a problem of circular queue, so I have used structure for creating nodes.
+->  I have to use while loop to declare the winner of this circular queue.
+->  For non-eliminated and eliminated kids, I have used variables for comparision.
+->  Finally, when there is only one kid at the end then it'll be declared as winner.
